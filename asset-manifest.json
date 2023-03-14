@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/controle-financas/static/css/main.74acce42.css",
+    "main.js": "/controle-financas/static/js/main.b2fd2415.js",
+    "static/js/787.28cb0dcd.chunk.js": "/controle-financas/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/controle-financas/index.html",
+    "main.74acce42.css.map": "/controle-financas/static/css/main.74acce42.css.map",
+    "main.b2fd2415.js.map": "/controle-financas/static/js/main.b2fd2415.js.map",
+    "787.28cb0dcd.chunk.js.map": "/controle-financas/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74acce42.css",
+    "static/js/main.b2fd2415.js"
+  ]
+}
