@@ -1,0 +1,6 @@
+.expend-input {
+    display: flex;
+    flex-direction: column;
+    max-width: 20rem;
+    min-width: 12.5rem;
+}
